@@ -1,16 +1,20 @@
-# hello_tractor
+# Hello Tractor Burkina
 
-Location des tracteurs agricole au burkina faso
+Application mobile de localisation, gestion et mise en relation
+des tracteurs agricoles au Burkina Faso.
 
-## Getting Started
+## Objectif
+Faciliter l’accès aux tracteurs pour les agriculteurs
+et rentabiliser les équipements agricoles.
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités prévues
+- Localisation des tracteurs
+- Demande de location
+- Gestion des propriétaires
+- Paiement mobile (Orange Money / Moov)
+- Historique des locations
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+- Flutter
+- Android
+- Backend (à définir)
